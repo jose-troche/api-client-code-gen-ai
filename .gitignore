@@ -3,6 +3,7 @@ typescript
 markdown
 express
 docs
+ts-docs
 .openapi-generator
 .openapi-generator-ignore
 openapitools.json

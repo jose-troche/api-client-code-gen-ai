@@ -14,5 +14,10 @@
     "express": "^4.21.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@openapitools/openapi-generator-cli": "^2.15.3",
+    "typedoc": "^0.26.11",
+    "typedoc-plugin-markdown": "^4.2.10"
   }
 }

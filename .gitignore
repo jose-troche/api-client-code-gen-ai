@@ -1,1 +1,9 @@
 node_modules
+typescript
+markdown
+express
+docs
+.openapi-generator
+.openapi-generator-ignore
+openapitools.json
+index.adoc
